@@ -58,15 +58,20 @@
 
 ---
 
+> [!IMPORTANT]
 > After installing, you can customize the prompt by creating a configuration file at `~/.config/starship.toml`. The default my configuration file is available in this repository as `starship.toml`.
 
 ```bash
 mkdir -p ~/.config && touch ~/.config/starship.toml
 ```
 
+---
+
 >[!Tip]
 > In Windows, the configuration file is typically located >at `C:\Users\<YourUsername>\.config\starship.toml`
 >If you don't have `starship.toml` file, you can create it manually or copy the default configuration file from this repository.
+
+---
 
 >[!Tip]
 >Or You can get preset configuration files from the [starship presets](https://starship.rs/presets/).
